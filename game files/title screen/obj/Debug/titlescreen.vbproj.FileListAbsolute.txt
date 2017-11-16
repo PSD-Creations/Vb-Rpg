@@ -1,0 +1,11 @@
+C:\titlescreen\titlescreen\bin\Debug\titlescreen.exe.config
+C:\titlescreen\titlescreen\bin\Debug\titlescreen.exe
+C:\titlescreen\titlescreen\bin\Debug\titlescreen.pdb
+C:\titlescreen\titlescreen\bin\Debug\titlescreen.xml
+C:\titlescreen\titlescreen\obj\Debug\titlescreen.Resources.resources
+C:\titlescreen\titlescreen\obj\Debug\titlescreen.vbproj.GenerateResource.Cache
+C:\titlescreen\titlescreen\obj\Debug\titlescreen.exe
+C:\titlescreen\titlescreen\obj\Debug\titlescreen.xml
+C:\titlescreen\titlescreen\obj\Debug\titlescreen.pdb
+C:\titlescreen\titlescreen\obj\Debug\TitleScreen.vbprojResolveAssemblyReference.cache
+C:\titlescreen\titlescreen\obj\Debug\titlescreen.TitleScreen.resources
